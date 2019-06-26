@@ -1,0 +1,26 @@
+Contoso having their 12 Officers all over the world and all of them 
+need to work on a project which is 'hosting a website'
+for their employees. Using that website employees will be
+able to get the information of the Corporate Customers Accouting,
+using that website employee should be able to manage and monitor those accounts.
+this site is will be using google Platform as a Service(PaaS),
+this means the hardware used by Service will provided by the Google Platform service.
+Many services(microservices) will be deployed on these servers and those microservices along
+together works as a monolithic architecture based app, but using the Microservices which
+combines and work as an single app provided to the enduser(employees).
+
+
+Functional Requirments
+
+1)Employee should be able to Login and get verified.
+
+2)Employee should be able access Corporate Customers Accounting related information.
+ 
+3)Employee should be able to Logout with his session/work stored.
+
+
+Non-Function Requirments
+
+1)Email to employee is provided as per update on his/her customers account at the end of the everyday(24hrs).
+
+2)Timeline is provied on every management commit by the customers to the employee. 
